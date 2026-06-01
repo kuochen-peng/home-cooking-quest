@@ -44,7 +44,7 @@ export default defineConfig(() => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/home-cooking-quest-quasar',
+      publicPath: '/home-cooking-quest',
       // analyze: true,
       // env: {},
       // rawDefine: {}
