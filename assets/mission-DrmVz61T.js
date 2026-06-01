@@ -1,0 +1,1 @@
+import{b2 as s}from"./index-Lsys1o4z.js";const n={createMission:i=>s.post("/mission",i),getMission:()=>s.get("/mission/"),getAllMission:()=>s.get("/mission/all"),updateMission:(i,t)=>s.patch("/mission/updateMission/"+i,t)};export{n as m};

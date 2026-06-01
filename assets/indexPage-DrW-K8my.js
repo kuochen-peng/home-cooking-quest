@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as c,b as t}from"./index-Lsys1o4z.js";const r={},n={class:"row window-height items-center justify-center"};function a(i,e){return c(),o("div",n,[...e[0]||(e[0]=[t("div",{class:"col-12 text-center"},[t("h1",{class:"text-h3"},"歡迎管理員")],-1)])])}const f=s(r,[["render",a]]);export{f as default};
